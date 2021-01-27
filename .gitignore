@@ -4,3 +4,4 @@ screenshots/
 .gitignore
 .travis.yml
 gruntfile.js
+/build
