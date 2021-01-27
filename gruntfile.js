@@ -138,7 +138,7 @@ module.exports = function(grunt) {
       'cssmin',
       'usebanner',
 /*      'header', */
-      'gh-pages'
+      // 'gh-pages'
       /* 'usebanner' */
       /* 'uglify:standardTarget',
       'concat:minimalDebug',
